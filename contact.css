@@ -1,0 +1,74 @@
+.america {
+    height: 65px;
+    width: 60%;
+    background-color: lightgrey;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.southafrica {
+    height: 100px;
+    width: 60%;
+    background-color: lightgrey;
+    margin: auto;
+    margin-bottom: 15px;
+    padding-top: 20px;
+}
+
+.nigeria {
+    height: 100px;
+    width: 60%;
+    background-color: lightgrey;
+
+    margin: auto;
+    margin: bottom 20px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.kenya {
+    height: 200px;
+    width: 60%;
+    background-color: lightgrey;
+
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.home {
+    background-color: azure;
+    height: 60px;
+    font-size: xx-large;
+    font-style: normal;
+    color: black;
+    margin: left 15px;
+}
+
+.about {
+    height: 60px;
+    background-color: azure;
+    font-size: xx-large;
+    font-style: normal;
+    color: black;
+    margin-left: 15px;
+}
+
+.contact {
+    height: 60px;
+    background-color: azure;
+    font-size: xx-large;
+    color: black;
+    margin-left: 15px;
+}
+
+.niger {
+    height: 80px;
+    width: 60%;
+    background-color: lightgrey;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    text-align: center;
+}

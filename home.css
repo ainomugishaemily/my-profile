@@ -1,0 +1,105 @@
+.king{height: 63px;
+width: 60%;
+background-color: lightgrey;
+
+margin: auto;
+margin-bottom: 15px;
+padding-top: 20px;
+}
+.queen{
+   
+    background-color: lightgrey;
+    width: 60%;
+    height: 600px;
+
+    margin: auto;
+    margin-bottom: 15px;
+}
+.joy{
+
+    height: 400px;
+    width: 60%;
+    background-color: lightgrey;
+
+    margin: auto;
+    margin-bottom: 15px; 
+}
+.hope{
+    height: 100px;
+    width: 60%;
+    background-color: lightgrey;
+
+    margin: auto;
+    margin-bottom: 15px; 
+}
+
+
+.home{
+    background-color: azure;
+    height: 60px;
+    font-size: xx-large;
+    font-style: normal;
+    color:black;
+    margin-left: 15px;
+}
+.about{
+    height: 60px;
+    font-size: xx-large;
+    font-style: normal;
+    color: black;
+    background-color:azure;
+}
+.contact{
+    height: 60px;
+    font-size: xx-large;
+    font-style: normal;
+    color: black;
+    background-color: azure;
+}
+.bliss{
+    height: 600px;
+    width:58%;
+    background-color: lightsalmon;
+    float: left;
+}
+.teri{
+    height: 600px;
+    width: 40%;
+    background-color: lightsalmon;
+    float: right;
+}
+.lisa{
+    height: 300px;
+    width: 40%;
+    background-color: lightsalmon;
+    margin-bottom: 2px;
+}
+.pink{
+    height: 290px;
+    width: 40%;
+    background-color:lightsalmon;
+    margin-bottom: 2px;
+}
+.hip{
+    height: 300px;
+    width: 376px;
+    background-color: azure;
+
+    margin-bottom: 2px;
+}
+.pop{
+    height: 265px;
+    width: 376px;
+    background-color:azure;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+
+    
+    
+    
+    
+
+
